@@ -2521,6 +2521,9 @@
 	<!-- Bahamut -->
 	<item component="ComponentInfo{tw.com.gamer.android.activecenter/tw.com.gamer.android.activity.guide.GuideActivity}" drawable="bahamut"/>
 
+	<!-- Bahn -->	
+	<item component="ComponentInfo{com.hellany.bahn/com.hellany.bahn.app.MainActivity}" drawable="bahn"/>
+
 	<!-- BahnBonus -->
 	<item component="ComponentInfo{com.deutschebahn.bahnbonus/com.deutschebahn.bahnbonus.ui.LauncherActivity}" drawable="bahnbonus"/>
 
